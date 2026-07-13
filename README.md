@@ -132,8 +132,8 @@ Retail-Business-Intelligence-Suite/
 ## 👤 Author / Contact
 
 **Abhik Roy**
-📧 [your.email@example.com]
-🔗 [LinkedIn Profile URL]
+📧 abhik.roy.kol@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/abhik-roy-kol) | [GitHub](https://github.com/abhikroy-kol)
 
 ---
 
